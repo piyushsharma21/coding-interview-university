@@ -1,16 +1,25 @@
 # الإعداد لمقابلة البرمجة
 
-> أنشأتها في المقام الأول كلائحة قصيرة من المواضيع الدراسية لكيف يصبح المرء مهندس برمجيات، ولكن سرعان ما كبرت هذه القائمة إلى ما تراه أمامك اليوم. بعد خوض هذه الخطة الدراسية, 
-[تم توظيفي كمهندس تطوير  برمجيات لدى أمازون](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)! على الأغلب لن تحتاج إلى ان تدرس بالقدر الذي درسته أنا. لكن على كل حال كل ما تحتاج إليه موجود 
-هنا
-> 
-> درست لمدة ٨-١٢ ساعة في اليوم, لعدة أشهر. هذه هي قصتي: [لماذا درست دواما كاملا لمدة ثمانية أشهر من أجل مقابلة لدا قوقل](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
-> 
-> العناصر المذكورة في هذه اللائحة ستجهزك جيدا لمقابلة تقنية مع تقريبا أي شركة برمجية, حتى الشركات العملاقة: أمازون، فيسبوك، قوقل، وميكروسوفت
-> 
-> بالتوفيق
+<div align="right">
+  
+> لقد قمت بأنشاء هذا في الأصل كلائحة صغيرة تحتوي على مواضيع دراسية الغرض من دراستها ان أصبح مهندس برامجيات،
+> لكنها توسعت الى قائمة كبيرة التي تراها اليوم. بعد ان قمتُ بدراسة لائحة المواضيع هذه وحسب الخطة، [حصلت على عمل كمهندس برامجيات في شركة امازون](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)
+>! على الأغلب لن تحتاج إلى ان تدرس بالقدر الذي درسته أنا. لكن على كل حال كل ما تحتاج إليه موجود هنا.
+>
+>درستُ لمدة ٨-١٢ ساعة في اليوم, لعدة أشهر. هذه هي قصتي: [لماذا كرستُ كل وقتي لمدة ثمانية أشهر من أجل مقابلة لدا قوقل](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+>
+> **ملاحظة:** لن تحتاج للدراسة بقدر ما فعلت انا، لقد اهدرت المزيد من الوقت والجهد على مواضيع لم اكن بحاجة الى معرفتها، مزيد حول ذلك ادناه، سوف اساعدك بالوصول الى هناك دون اضاعة وقتك الثمين.
+>
+> المواضيع المدرجة في هذه اللائحة ستجهزك جيدا لاجراء مقابلة تقنية مع اي شركة برمجية تقريبا، حتى الشركات العملاقة: أمازون، فيسبوك، قوقل، وميكروسوفت.
+>
+>بالتوفيق.
+>
 
-<details>
+</div>
+
+
+
+<details dir="rtl">
 <summary>الترجمات:</summary>
 
 - [中文版本](translations/README-cn.md)
@@ -24,7 +33,7 @@
 
 </details>
 
-<details>
+<details dir="rtl">
 <summary>ترجمات تحت الإعداد:</summary>
 
 - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
@@ -39,30 +48,19 @@
 - [أردو](https://github.com/jwasham/coding-interview-university/issues/140)
 - [التايلندية](https://github.com/jwasham/coding-interview-university/issues/156)
 - [اليونانية](https://github.com/jwasham/coding-interview-university/issues/166)
-- [الإيطالية](https://github.com/jwasham/coding-interview-university/issues/170)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 
 </details>
 
+<hr />
+
 <div align="center">
-	<hr />
     <p>
         <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
     </p>
     <p>
         <strong>Special thanks to:</strong>
     </p>
-    <p>
-        <a href="https://oss.capital/">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
     <p>
         <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
             <div>
@@ -81,139 +79,145 @@
     <hr />
 </div>
 
-## ما هذا؟
-هي خطتي متعددة الأشهر للوصول من مطور ويب (تعليم ذاتي، بدون درجة علمية في علوم الحاسب) لمنصب مهندس برمجيات لشركة عملاقة
+## ما هذا!
+<p align="center">
+  <img alt="Coding at the whiteboard - from HBO's Silicon Valley" src="https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png">
+</p>
 
+هذه خطتي الدراسية التي تستغرق عدة اشهر من اجل ان اصبح مهندس برامجيات في شركة عملاقة.
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
+**المتطلبات:**
+* خبرة قليلة في البرمجة (المتغيرات، التكرارات، الدوال، الخ).
+* صبر.
+* وقت.
 
-تم إعدادها لمهنسي البرمجيات الجدد أو أولئك المنتقلين من تطوير الويب إلى هندسة البرمجيات (حيث المعرفة بعلوم الحاسب ضرورية) إذا كان لديك العديد من سنوات الخبرة في بناء تطبيقات الويب أو البرمجيات، خذ في عين الإعتبار ان المقابلة ستكون اصعب
+ملاحظة: هذه الخطة الدراسية هي من اجل ان تصبح مهندس برامجيات وليس من اجل ان تصبح مطور تطبيقات للويب. كبرى الشركات التقنية مثل كوكل، امازون، مايكروسوفت، فيسبوك ينظرون الى مهندس البرامجيات بنظرة مختلفة عن مطور البرامجيات/الويب، على سبيل المثال شركة امازون لديها مهندس الواجهات (Frontend Engineers) ولديها مهندس تطوير برامجيات (Software Development Engineers) ولكل منها دور مختلف والمقابلة التقنية لكل منها مختلفة تماما، لكن بصورة عام تتطلب هذه الشركات معرفة بعلوم الحاسوب للمتقدمين لشغل ادوار تخص تطوير البرامجيات او هندسة البرامجيات.
 
-إذا كانت لديك العديد من سنوات الخبرة في تطوير الويب, خذ في عين الإعتبار أن الشركات االبرمجية الضخمة مثل قوقل, فيسبوك, و ميكروسوفت ينظرون إلى هندسة البرمجيات بشكل مختلف عن تطوير البرمجيات/ويب, و تحتاج إلى معرفة علوم الحاسب
-
-إذا اردت ان تصبح مهندس موثوقية أو مهندس عمليات, ادرس اكثر من القائمة الإختيارية (شبكات, امن)
-
----
+<hr />
 
 ## الفهرس
 
-- [كيفية استخدامها](#how-to-use-it)
-- [لماذا استخدمه؟](#why-use-it)
-- [كيفية استخدامها](#how-to-use-it)
-- [عن مصادر مقاطع الفديو](#about-video-resources)
-- [مراحل المقابلة الشخصية & الإستعداد العام للمقابلة](#interview-process--general-interview-prep)
-- [اختر لغة برمجية واحدة للمقابلة البرمجية](#pick-one-language-for-the-interview)
-- [لائحة الكتب](#book-list)
-- [قبل أن تبدأ](#before-you-get-started)
-- [ما لن تجده هنا](#what-you-wont-see-covered)
-- [الخطة اليومية](#the-daily-plan)
-- [معرفة مسبقة](#prerequisite-knowledge)
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
-    - [Arrays](#arrays)
-    - [Linked Lists](#linked-lists)
-    - [Stack](#stack)
-    - [Queue](#queue)
-    - [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
-    - [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)
-- [Trees](#trees)
-    - [Trees - Notes & Background](#trees---notes--background)
-    - [Binary search trees: BSTs](#binary-search-trees-bsts)
-    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-    - balanced search trees (general concept, not details)
-    - traversals: preorder, inorder, postorder, BFS, DFS
-- [Sorting](#sorting)
-    - selection
-    - insertion
-    - heapsort
-    - quicksort
-    - merge sort
-- [Graphs](#graphs)
-    - directed
-    - undirected
-    - adjacency matrix
-    - adjacency list
-    - traversals: BFS, DFS
-- [Even More Knowledge](#even-more-knowledge)
-    - [Recursion](#recursion)
-    - [Dynamic Programming](#dynamic-programming)
-    - [Object-Oriented Programming](#object-oriented-programming)
-    - [Design Patterns](#design-patterns)
-    - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
-    - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
-    - [Caches](#caches)
-    - [Processes and Threads](#processes-and-threads)
-    - [Testing](#testing)
-    - [Scheduling](#scheduling)
-    - [String searching & manipulations](#string-searching--manipulations)
-    - [Tries](#tries)
-    - [Floating Point Numbers](#floating-point-numbers)
-    - [Unicode](#unicode)
-    - [Endianness](#endianness)
-    - [Networking](#networking)
-- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
-- [Final Review](#final-review)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding exercises/challenges](#coding-exerciseschallenges)
-- [Once you're closer to the interview](#once-youre-closer-to-the-interview)
-- [Your Resume](#your-resume)
-- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
-- [Have questions for the interviewer](#have-questions-for-the-interviewer)
-- [Once You've Got The Job](#once-youve-got-the-job)
 
----------------- Everything below this point is optional ----------------
+<div dir='rtl' align='right'>
+	
+	
+- [ما هذا؟](#ما-هذا)
+- [لماذا استخدم هذه الخطة الدراسية؟](#لماذا-استخدم-هذه-الخطة-الدراسية)
+- [كيفية استخدامها](#كيفية-استخدامها)
+- [عن مصادر مقاطع الفيديو](#عن-مصادر-مقاطع-الفديو)
+- [مراحل المقابلة الشخصية & الإستعداد العام للمقابلة](#مراحل-المقابلة-الشخصية-و-الإستعداد-العام-للمقابلة)
+- [اختر لغة برمجية واحدة للمقابلة البرمجية](#اختر-لغة-برمجية-واحدة-للمقابلة-البرمجية)
+- [لائحة الكتب](#لائحة-الكتب)
+- [قبل البدء](#قبل-البدء)
+- [ما لن تجده هنا](#ما-لن-تجده-هنا)
+- [الخطة اليومية](#الخطة-اليومية)
+- [معرفة مسبقة](#المعرفة-المسبقة)
+- [تقدير وتحليل أداء الخوارزميات (Algorithmic complexity / Big-O / Asymptotic analysis)](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [هياكل البيانات (Data Structures)](#data-structures)
+    - [المصفوفات (Arrays)](#arrays)
+    - [العقد المترابطة (Linked Lists)](#linked-lists)
+    - [المكدس (Stack)](#stack)
+    - [الطابور (Queue)](#queue)
+    - [جداول التجزئة (Hash table)](#hash-table)
+- [معرفة اضافية](#more-knowledge)
+    - [الـ Binary search](#binary-search)
+    - [الـ Bitwise operations](#bitwise-operations)
+- [الشجرة (Trees)](#trees)
+    - [الشجرة - ملاحظات - ومعلومات اساسية (Trees - Notes & Background)](#trees---notes--background)
+    - [الـ Binary search trees: BSTs](#binary-search-trees-bsts)
+    - [الـ Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+    - الـ balanced search trees (general concept, not details)
+    - الـ traversals: preorder, inorder, postorder, BFS, DFS
+- [الـ Sorting](#sorting)
+    - الـ selection
+    - الـ insertion
+    - الـ heapsort
+    - الـ quicksort
+    - الـ merge sort
+- [الـ Graphs](#graphs)
+    - الـ directed
+    - الـ undirected
+    - الـ adjacency matrix
+    - الـ adjacency list
+    - الـ traversals: BFS, DFS
+- [الـ Even More Knowledge](#even-more-knowledge)
+    - [الـ Recursion](#recursion)
+    - [الـ Dynamic Programming](#dynamic-programming)
+    - [الـ Object-Oriented Programming](#object-oriented-programming)
+    - [الـ Design Patterns](#design-patterns)
+    - [الـ Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
+    - [الـ NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
+    - [الـ Caches](#caches)
+    - [الـ Processes and Threads](#processes-and-threads)
+    - [الـ Testing](#testing)
+    - [الـ Scheduling](#scheduling)
+    - [الـ String searching & manipulations](#string-searching--manipulations)
+    - [الـ Tries](#tries)
+    - [الـ Floating Point Numbers](#floating-point-numbers)
+    - [الـ Unicode](#unicode)
+    - [الـ Endianness](#endianness)
+    - [الـ Networking](#networking)
+- [الـ System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
+- [الـ Final Review](#final-review)
+- [الـ Coding Question Practice](#coding-question-practice)
+- [الـ Coding exercises/challenges](#coding-exerciseschallenges)
+- [الـ Once you're closer to the interview](#once-youre-closer-to-the-interview)
+- [الـ Your Resume](#your-resume)
+- [الـ Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
+- [الـ Have questions for the interviewer](#have-questions-for-the-interviewer)
+- [الـ Once You've Got The Job](#once-youve-got-the-job)
 
-## Additional Resources
 
-- [Additional Books](#additional-books)
-- [Additional Learning](#additional-learning)
-    - [Compilers](#compilers)
-    - [Emacs and vi(m)](#emacs-and-vim)
-    - [Unix command line tools](#unix-command-line-tools)
-    - [Information theory](#information-theory-videos)
-    - [Parity & Hamming Code](#parity--hamming-code-videos)
-    - [Entropy](#entropy)
-    - [Cryptography](#cryptography)
-    - [Compression](#compression)
-    - [Computer Security](#computer-security)
-    - [Garbage collection](#garbage-collection)
-    - [Parallel Programming](#parallel-programming)
-    - [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
-    - [A*](#a)
-    - [Fast Fourier Transform](#fast-fourier-transform)
-    - [Bloom Filter](#bloom-filter)
-    - [HyperLogLog](#hyperloglog)
-    - [Locality-Sensitive Hashing](#locality-sensitive-hashing)
-    - [van Emde Boas Trees](#van-emde-boas-trees)
-    - [Augmented Data Structures](#augmented-data-structures)
-    - [Balanced search trees](#balanced-search-trees)
-        - AVL trees
-        - Splay trees
-        - Red/black trees
-        - 2-3 search trees
-        - 2-3-4 Trees (aka 2-4 trees)
-        - N-ary (K-ary, M-ary) trees
-        - B-Trees
-    - [k-D Trees](#k-d-trees)
-    - [Skip lists](#skip-lists)
-    - [Network Flows](#network-flows)
-    - [Disjoint Sets & Union Find](#disjoint-sets--union-find)
-    - [Math for Fast Processing](#math-for-fast-processing)
-    - [Treap](#treap)
-    - [Linear Programming](#linear-programming-videos)
-    - [Geometry, Convex hull](#geometry-convex-hull-videos)
-    - [Discrete math](#discrete-math)
-    - [Machine Learning](#machine-learning)
-- [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
-- [Video Series](#video-series)
-- [Computer Science Courses](#computer-science-courses)
-- [Papers](#papers)
+## مصادر اضافية
+- [الـ Additional Books](#additional-books)
+- [الـ Additional Learning](#additional-learning)
+    - [الـ Compilers](#compilers)
+    - [الـ Emacs and vi(m)](#emacs-and-vim)
+    - [الـ Unix command line tools](#unix-command-line-tools)
+    - [الـ Information theory](#information-theory-videos)
+    - [الـ Parity & Hamming Code](#parity--hamming-code-videos)
+    - [الـ Entropy](#entropy)
+    - [الـ Cryptography](#cryptography)
+    - [الـ Compression](#compression)
+    - [الـ Computer Security](#computer-security)
+    - [الـ Garbage collection](#garbage-collection)
+    - [الـ Parallel Programming](#parallel-programming)
+    - [الـ Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
+    - [الـ A*](#a)
+    - [الـ Fast Fourier Transform](#fast-fourier-transform)
+    - [الـ Bloom Filter](#bloom-filter)
+    - [الـ HyperLogLog](#hyperloglog)
+    - [الـ Locality-Sensitive Hashing](#locality-sensitive-hashing)
+    - [الـ van Emde Boas Trees](#van-emde-boas-trees)
+    - [الـ Augmented Data Structures](#augmented-data-structures)
+    - [الـ Balanced search trees](#balanced-search-trees)
+        - الـ AVL trees
+        - الـ Splay trees
+        - الـ Red/black trees
+        - الـ 2-3 search trees
+        - الـ 2-3-4 Trees (aka 2-4 trees)
+        - الـ N-ary (K-ary, M-ary) trees
+        - الـ B-Trees
+    - [الـ k-D Trees](#k-d-trees)
+    - [الـ Skip lists](#skip-lists)
+    - [الـ Network Flows](#network-flows)
+    - [الـ Disjoint Sets & Union Find](#disjoint-sets--union-find)
+    - [الـ Math for Fast Processing](#math-for-fast-processing)
+    - [الـ Treap](#treap)
+    - [الـ Linear Programming](#linear-programming-videos)
+    - [الـ Geometry, Convex hull](#geometry-convex-hull-videos)
+    - [الـ Discrete math](#discrete-math)
+    - [الـ Machine Learning](#machine-learning)
+- [الـ Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
+- [الـ Video Series](#video-series)
+- [الـ Computer Science Courses](#computer-science-courses)
+- [الـ Papers](#papers)
 
----
 
-## لماذا استخدمه؟
+	
+</div>
+	
+## لماذا استخدم هذه الخطة الدراسية؟
 
 أقوم بمتابعة هذه الخطة لتحضير إلى المقابلة الشخصية بجوجل. لقد قمت بناء مواقع ويب، وتقديم خدمات ذات صلة، وبناء شركات ناشئة منذ 1997. لدي درجة علمية في الاقتصاد، وليس في علوم الحاسب. أنا شخص ناجح في مجال عملي، ولكنني أريد أن أعمل بجوجل. أريد أن أعمل على أنظمة كبيرة والحصول على فهم كبير في أنظمة الحاسوب، كفاءة الخوارزميات، كقاءة الهياكل البيانية، اللغات الأقرب إلى الآلة وكيفية عملها. وإذ لم تعرف أين منها لن تعينك جوجل.
 
@@ -230,43 +234,46 @@
 
 
 **اصنع مسار جديد يمكن من خلاله أن تضع علامة [x]**
-
-    احصل على نسخة خاصة "fork" بك واتبع هذه الأوامر
-
-    Clone to your local repo
-
-`git clone git@github.com:<your_github_username>/coding-interview-university.git`
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
-
-`git fetch --all`
+ احصل على نسخة خاصة "fork" بك واتبع هذه الأوامر
+1- Clone to your local repo
+ ```
+    git clone git@github.com:<your_github_username>/coding-interview-university.git
+    cd coding-interview-university
+    git checkout -b progress
+    git remote add jwasham https://github.com/jwasham/coding-interview-university
+    git fetch --all
+```
 
     دون بعلامة X بعد الإنتهاء من دراسة العنصر
 
-
-`git add .`
-
-`git commit -m "Marked x"`
-
-`git rebase jwasham/main`
-
-`git push --set-upstream origin progress`
-
-`git push --force`
+```
+    git add .
+    git commit -m "Marked x"
+    git rebase jwasham/main
+    git push --set-upstream origin progress
+    git push --force
+```
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 
 ## هل تشعر أنك لست بالذكاء الكافي
+
+
+<div dir='rtl' align='right'>
+	
+	
 - مهندسوا جوجل أذكياء، وربما لديهم عدم الأمان لأنهم ليسوا بالذكاء الكافي، حتى وهي في جوجل
 
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- شاهد هذا الفيديو عبر اليوتيوب [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- شاهد هذا الفيديو عبر اليوتيوب [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 
-## عن مصادر الفديو
+	
+</div>
+
+
+## عن مصادر مقاطع الفديو
 
 بعض الفديوهات متاحة فقط عن طريق الاشتراك في كورسيرا "Coursera"، إيدكس "Edx" أو ليندا "Lynda.com". يطلق عليهم موكس"MOOCS".
 بعض الأحيان الدروس ليست متاحة في كل الأوقات لذلك عليك الانتظار عدة أشهر حتى تكون متاحة للالتحاق بها. دروس ليندا "Lynda" ليست مجانية.
@@ -276,7 +283,7 @@
     أفضل استخدام مصادر الجامعات.
 
 
-## مراحل المقابلة الشخصية & الإستعداد العام للمقابلة
+## مراحل المقابلة الشخصية و الإستعداد العام للمقابلة
 
 - [ ] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
@@ -330,7 +337,7 @@
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-## قائمة الكتب
+## لائحة الكتب
 
 هذه قائمة من العناصر التي استحدمتها. تم اختصارها للمحافظة على الكتب.
 
@@ -440,7 +447,7 @@ It's user-friendly, available on all platforms and has a cloud sync system. It c
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya)).
 
-### 3. Start doing coding interview questions while you're learning data structures and algorithms
+### 3. ابدأ في إجراء أسئلة المقابلة بينما تتعلم هياكل البيانات والخوارزميات
 
 You need to apply what you're learning to solving problems, or you'll forget. I made this mistake. Once you've learned a topic,
 and feel comfortable with it, like linked lists, open one of the coding interview books and do a couple of questions regarding
@@ -449,18 +456,18 @@ or recursion problem, or whatever. But keep doing problems while you're learning
 but how you apply the knowledge. There are several books and sites I recommend.
 See here for more: [Coding Question Practice](#coding-question-practice).
 
-### 4. Review, review, review
+### 4. المراجعة ,المراجعة, المراجعة
 
 I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
 
 Take a break from programming problems for a half hour and go through your flashcards.
 
-### 5. Focus
+### 5. ركز
 
 There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
 without lyrics and you'll be able to focus pretty well.
 
-## What you won't see covered
+## ما لن تجده هنا
 
 These are prevalent technologies but not part of this study plan:
 
@@ -468,7 +475,7 @@ These are prevalent technologies but not part of this study plan:
 - Javascript
 - HTML, CSS, and other front-end technologies
 
-## The Daily Plan
+## الخطة اليومية
 
 Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
 
@@ -498,7 +505,7 @@ You don't need to memorize the guts of every algorithm.
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
-## Prerequisite Knowledge
+## المعرفة المسبقة
 
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying
@@ -1268,7 +1275,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (18 videos):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):
     - [Videos](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 - [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Sedgewick Videos - Algorithms II](https://www.coursera.org/learn/algorithms-part2)
@@ -1305,7 +1312,6 @@ Supplemental:
 - [Mathematics for Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
 - [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - [MIT Interview Materials](https://web.archive.org/web/20160906124824/http://courses.csail.mit.edu/iap/interview/materials.php)
-- [Exercises for getting better at a given language](http://exercism.io/languages)
 
 **Read and Do Programming Problems (in this order):**
 
@@ -1359,7 +1365,7 @@ Challenge repos:
 - [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
 
 Mock Interviews:
-- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview
+- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/#!/) - I used this and it helped me relax for the phone screen and on-site interview
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies
 - [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously.
@@ -1522,7 +1528,6 @@ You're never really done.
             - [Emacs Tutorial (Beginners) -Part 3- Expressions, Statements, ~/.emacs file and packages](https://www.youtube.com/watch?v=paSgzPso-yc)
         - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
         - [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
-        - [(maybe) Org Mode In Depth: Managing Structure (video)](https://www.youtube.com/watch?v=nsGYet02bEk)
 
 - ### Unix command line tools
     - I filled in the list below from good tools.
@@ -1707,7 +1712,7 @@ You're never really done.
         - [Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
         - [Aduni - Algorithms - Lecture 5 (video)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
         - [Red-Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
-        - [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/community/competitive-programming/tutorials/an-introduction-to-binary-search-and-red-black-trees/)
+        - [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/thrive/articles/An%20Introduction%20to%20Binary%20Search%20and%20Red-Black%20Trees)
 
     - **2-3 search trees**
         - In practice:
@@ -1812,7 +1817,6 @@ You're never really done.
         - [Google's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning--ud730)
         - [Google/Kaggle Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
         - [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/drive)
-        - [Metis Online Course ($99 for 2 months)](http://www.thisismetis.com/explore-data-science)
     - Resources:
         - Books:
             - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/)
